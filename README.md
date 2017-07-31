@@ -19,5 +19,5 @@
  <BR>
 <BR>2.处理后<BR>
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/3.png)<BR>
-<BR>3.处理方案 （有更好的方案麻烦交流一下扣扣@382519962，不明白的也可咨询）<BR>
+<BR>3.处理方案 （有更好的方案可交流扣扣@382519962）<BR>
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/2.png)<BR>
