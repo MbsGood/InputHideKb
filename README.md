@@ -1,6 +1,20 @@
 # InputHideKb
-输入时顶起键盘的解决方案
+输入时顶起键盘的处理案例
+网上有很多的例子，但没有统一的解决方案，之后研究一下，发现键盘顶起后，原有的高度是有变化的，
+设置隐藏的样式也很重要
 
+1.开始时
 ![image](https://github.com/MbsGood/InputHideKb/blob/master/1.png)
+ .hasKb {
+    opacity: 0;
+    pointer-events: none;
+  }
 
+  .noKb {
+    opacity: 1;
+    pointer-events: auto;
+  }
+2.处理后
+![image](https://github.com/MbsGood/InputHideKb/blob/master/3.png)
+3.处理方案 （有更好的方案麻烦交流一下扣扣@382519962，不明白的也可咨询）
 ![image](https://github.com/MbsGood/InputHideKb/blob/master/2.png)
