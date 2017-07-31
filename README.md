@@ -17,7 +17,7 @@
     pointer-events: auto;
   }
  <BR>
-<BR>2.处理后<BR>
+<BR>2.处理后，完美解决<BR>
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/3.png)<BR>
-<BR>3.处理方案 （有更好的方案可交流扣扣@382519962）<BR>
+<BR>3.代码 （有更好的方案可交流扣扣@382519962）<BR>
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/2.png)<BR>
