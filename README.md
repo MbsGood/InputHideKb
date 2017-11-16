@@ -36,3 +36,7 @@
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/3.png)<BR>
 <BR>3.代码 （有更好的方案可交流扣扣@382519962）<BR>
 <BR>![image](https://github.com/MbsGood/InputHideKb/blob/master/2.png)<BR>
+ 
+ <BR>4.另一个更好的方案（有点雷同）<BR>
+ <BR>![image]( https://github.com/MbsGood/InputHideKb/blob/master/4.png)<BR>
+
